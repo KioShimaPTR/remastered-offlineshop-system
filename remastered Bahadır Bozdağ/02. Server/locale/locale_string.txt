@@ -1,0 +1,68 @@
+"You're too fast! Slow down!";
+"<Market Tezgahý> Bu eylemi gerçekleþtirmeden önce biraz bekle. ";
+
+"Make sure you don't have any open windows!";
+"<Market Tezgahý> Bu eylemi gerçekleþtirmeden önce açýk penceleri kapat. ";
+
+"<Offline Shop> You can't do this in that map!";
+"<Market Tezgahý> Bu haritada tezgah açamazsýn. ";
+
+"<Offline Shop> You can't do this in that channel!";
+"<Market Tezgahý> Bu kanalda tezgah açamazsýn. ";
+
+"You can't open twice offline shop from an account!";
+"<Market Tezgahý> En fazla bir adet tezgah açabilirsin. ";
+
+"You have already offline shop. You can't open again!";
+"<Market Tezgahý> Zaten aktif bir tezgahýn mevcut. ";
+
+"You don't have enough gold to open an offline shop! (%d)";
+"<Market Tezgahý> Tezgah açabilmek için (%d) Yanga ihtiyacýn var. ";
+
+"You have to be atleast 15. level to open shop! (%d)";
+"<Market Tezgahý> Tezgah açabilmek için (%d) seviye olman gerekiyor. ";
+
+"You have items in the store, fetch them first!";
+"<Market Tezgahý> Önce tezgahýndaki satýlmayan nesneleri geri al. ";
+
+"<Offline Shop> Your offline shop's time is expired after %d hour(s)";
+"<Market Tezgahý> Tezgah kuruldu, (%d) saat boyunca aktif kalacak. ";
+
+"You have to close your shop before use this!";
+"<Market Tezgahý> Bu eylemi gerçekleþtirebilmek için önce aktif tezgahýný kapat. ";
+
+"Your item %s sold, buyer is: %s.";
+"<Market Tezgahý> [%s] adlý nesne satýldý. Satýn alan [%s]. ";
+
+"You don't have enough space to put your item!";
+"<Market Tezgahý> Yeterli depolama alaný mevcut deðil. ";
+
+"Item %s has been successfully added to your offline shop, price: %d.";
+"<Market Tezgahý> [%s] adlý nesne baþarýyla tezgaha eklendi. Fiyat (%d). ";
+
+"You can't buy anything from your offline shop.";
+"<Market Tezgahý> Kendi tezgahýndan nesne satýn alamazsýn. ";
+
+"You need to have active offline shop to do that!";
+"<Market Tezgahý> Bu eylemi gerçekleþtirebilmek için aktif bir tezgahýnýz olmalý. ";
+
+"You have to get near to your shop to do it!";
+"<Market Tezgahý> Bu eylemi gerçekleþtirebilmek için tezgahýnýzýn yakýnýnda olmanýz gerek. ";
+
+"Seems you don't have an offline shop to destroy? ...";
+"<Market Tezgahý> Bu eylemi gerçekleþtirebilmek için aktif bir tezgahýnýz olmalý. ";
+
+"Nothing found.";
+"<Market Tezgahý> Tezgahta kalan nesne bulunamadý. ";
+
+"Bank text 1";
+"<Market Tezgahý> Eksi miktar çekilemez. ";
+
+"Bank text 2";
+"<Market Tezgahý> Çok fazla yang taþýyorsun. ";
+
+"Bank text 4";
+"<Market Tezgahý> Hesabýna bir miktar yang eklendi. ";
+
+"Bank text 6 %u";
+"<Market Tezgahý> Tezgah bankasýndan (%d) yang alýndý. ";

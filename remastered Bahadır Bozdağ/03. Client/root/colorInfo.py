@@ -1,0 +1,7 @@
+#Search:
+
+CHR_NAME_RGB_WAYPOINT = (255, 255, 255)
+
+#Add belowe
+
+CHR_NAME_RGB_OFFLINESHOP = (255, 215, 76)
