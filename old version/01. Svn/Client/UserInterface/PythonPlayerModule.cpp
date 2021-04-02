@@ -1,0 +1,5 @@
+// arat: PyModule_AddIntConstant(poModule, "SLOT_TYPE_DRAGON_SOUL_INVENTORY",	SLOT_TYPE_DRAGON_SOUL_INVENTORY);
+// altına ekle:
+	// BEGIN_OFFLINE_SHOP
+	PyModule_AddIntConstant(poModule, "SLOT_TYPE_OFFLINE_SHOP",				SLOT_TYPE_OFFLINE_SHOP);
+	// END_OF_OFFLINE_SHOP

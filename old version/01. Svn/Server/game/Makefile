@@ -1,0 +1,2 @@
+offlineshop.cpp
+offlineshop_manager.cpp

@@ -1,0 +1,1 @@
+player tablosune "gold_offlineshop" oluþtur. bigint - 25 - not null - default "0"

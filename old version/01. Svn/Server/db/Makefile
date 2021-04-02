@@ -1,0 +1,1 @@
+ClientManagerOfflineShop.cpp
